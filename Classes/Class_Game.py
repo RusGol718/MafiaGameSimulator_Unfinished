@@ -12,9 +12,6 @@ from Classes.Class_Player import *
 from Classes.Class_Role import *
 from Classes.Actions.Class_NightAction import *
 
-
-
-
 #made needs to loaded to here
 
 class Game:
