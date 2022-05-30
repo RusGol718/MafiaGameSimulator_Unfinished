@@ -1,0 +1,18 @@
+{
+      "-": "Street",
+      "B": "Bloodbath",
+      "^": "House",
+      "P": "Police station",
+      "+": "Hospital",
+      "$": "Bank",
+      "H": "Hotel",
+      "~": "Bar",
+      "Z": "Zoo",
+      "O": "Office block",
+      "=": "Railway",
+      "C": "College",
+      "T": "Town centre",
+      "#": "Graveyard",
+      "@": "Apartment complex",
+      "X": "Player"
+}
